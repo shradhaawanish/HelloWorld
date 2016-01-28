@@ -1,2 +1,2 @@
 # HelloWorld
-My first git program is awesome
+My first git program is awesome and also it easy to do
